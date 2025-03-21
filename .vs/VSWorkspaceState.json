@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\leetcodes",
+    "\\leetcodes\\leetcode",
+    "\\leetcodes\\leetcode\\\u56FE",
+    "\\leetcodes\\leetcode\\\u56FE\\BFS"
   ],
+  "SelectedNode": "\\leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp",
   "PreviewInSolutionExplorer": false
 }
