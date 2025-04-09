@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "E:\\Code\\algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,22 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\algorithm\\zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -55,58 +107,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "leetcode64.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E8C\u7EF4dp\\leetcode64.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T14:26:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leetcode639.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode639.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T14:33:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leetcode91.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode91.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T14:31:52.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leetcode983.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u52A8\u6001\u89C4\u5212\\\u4E00\u7EF4dp\\leetcode983.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T10:48:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "leetcode104.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u9012\u5F52\\leetcode104.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:29:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "leetcode662.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode662.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:11:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "146.LRU\u7F13\u5B58.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u7EFC\u5408\u5E94\u7528\\146.LRU\u7F13\u5B58.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T11:03:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "leetcode160.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode160.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T11:01:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "leetcode25.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode25.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:52:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "leetcode16.19.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u56FE\\DFS\\leetcode16.19.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:47:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "leetcode200.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u56FE\\DFS\\leetcode200.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:46:14.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "leetcode92.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u94FE\u8868\\leetcode92.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:44:18.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "leetcode103.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u4E8C\u53C9\u6811\\leetcode103.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:42:45.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "leetcode1162.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp",
               "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp",
               "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp",
               "RelativeToolTip": "leetcodes\\leetcode\\\u56FE\\BFS\\leetcode1162.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-21T16:04:47.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "leetcode3427.cpp",
-              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
-              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
-              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
-              "RelativeToolTip": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T10:44:03.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "leetcode303.cpp",
-              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
-              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
-              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
-              "RelativeToolTip": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T10:26:40.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "leetcode85.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp",
               "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp",
               "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp",
               "RelativeToolTip": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode85.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-21T10:09:22.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "leetcode84.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp",
               "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp",
@@ -119,20 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "leetcode1475.cpp",
-              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
-              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
-              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
-              "RelativeToolTip": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T09:26:03.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "leetcode739.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp",
               "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp",
@@ -145,7 +327,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "leetcode1475.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T09:26:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "leetcode303.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode303.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T10:26:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "leetcode3427.cpp",
+              "DocumentMoniker": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
+              "RelativeDocumentMoniker": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
+              "ToolTip": "E:\\Code\\algorithm\\leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
+              "RelativeToolTip": "leetcodes\\leetcode\\\u524D\u7F00\u548C\\leetcode3427.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T10:44:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "leetcode1475.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
               "RelativeDocumentMoniker": "zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode1475.cpp",
@@ -156,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "leetcode84.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp",
               "RelativeDocumentMoniker": "zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode84.cpp",
@@ -167,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "leetcode739.cpp",
               "DocumentMoniker": "E:\\Code\\algorithm\\zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp",
               "RelativeDocumentMoniker": "zuochengyun\\leetcode\\\u5355\u8C03\u6808\\leetcode739.cpp",
